@@ -4,7 +4,7 @@ A 2D Top-Down RPG prototype developed using the Raylib graphics library and C++,
 
 The game features a classic top-down perspective with player movement, enemy AI variations, combat mechanics, and a health system. The primary goal of this project was to explore how fundamental game systems are structured and implemented at a lower level using C++ and a lightweight graphics library.
 
-As a Solo Developer, I handled the complete development pipeline — from designing the gameplay loop and implementing mechanics to building UI elements and managing rendering systems. This project significantly improved my understanding of game loops, coordinate systems, collision detection, and real-time gameplay interactions.
+As a Solo Developer, I handled the complete development pipeline from designing the gameplay loop and implementing mechanics to building UI elements and managing rendering systems. This project significantly improved my understanding of game loops, coordinate systems, collision detection, and real-time gameplay interactions.
 
 <p align="center"> <img src="https://github.com/EndLineStudio/2D-Top-Down-RPG/blob/main/nature_tileset/OpenWorldRPG.png"> </p>
 
@@ -65,10 +65,6 @@ This project was created as a **learning-focused prototype** to:
 - Strengthen C++ and problem-solving skills  
 
 ---
-
-## 📷 Screenshots
-
-*(Add your gameplay screenshots here)*
 
 ---
 
