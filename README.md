@@ -66,8 +66,6 @@ This project was created as a **learning-focused prototype** to:
 
 ---
 
----
-
 ## 📥 Installation & Run
 
 ```bash
